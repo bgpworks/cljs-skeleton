@@ -1,0 +1,17 @@
+{
+  "name": "cljs-skeleton",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "shadow-cljs watch app",
+    "build": "yarn clean && shadow-cljs release app"
+  },
+  "devDependencies": {
+    "shadow-cljs": "2.11.1"
+  },
+  "dependencies": {
+    "create-react-class": "~15.6.3",
+    "react": "~16.13.0",
+    "react-dom": "~16.13.0"
+  }
+}
