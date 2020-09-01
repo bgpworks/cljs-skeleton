@@ -23,3 +23,4 @@ localhost:3000으로 서버가 실행되며, `src/app/core.cljs`파일을 수정
 ### Note
 
 - [re-frame](https://github.com/day8/re-frame) : reagent 데이터 관리 library
+- [ClojureDocs](https://clojuredocs.org/) : clojure의 다양한 core함수의 예제와 설명을 볼수 있습니다.
